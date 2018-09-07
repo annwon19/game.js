@@ -17,3 +17,4 @@ else {
 window.alert("you both lose. player one chose "+p1+" and player two chose "+p2);
 }
 }
+playGame();
